@@ -1,2 +1,21 @@
-# Easy-FPS-Decompiler
-Tool to decompile games made with Easy FPS Engine.
+# Easy FPS Decompiler
+
+## About
+EasyFPSE Decompiler is a simple CLI tool that allows you to protect or decompile games made with the Easy FPS Editor.
+
+## Features
+- Unpacking an EFPSE compatible project from a compiled game
+- Protecting a game against decompilation
+
+## Usage Examples
+
+ Protecting a game:
+ ```EasyFPSE_decompiler.exe -p <path to Data.pak> <output directory>```
+ This will create a new ```Data.pak``` file in the output directory, paste it in your game root directory.
+
+ Decompiling a game: ```EasyFPSE_decompiler.exe -u <path to Data.pak> <output directory>``` This will create a folder named ```Data``` in the chosen output directory, you can rename the directory as you please and simply open it using EasyFPSEditor.
+
+ ## Why no source code?
+
+ For the time being only a compiled binary is avaliable because having the tool be open sourced would defy the protection capabilities of the software.
+
