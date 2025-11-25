@@ -18,4 +18,5 @@ EasyFPSE Decompiler is a simple CLI tool that allows you to protect or decompile
  ## Why no source code?
 
  For the time being only a compiled binary is avaliable because having the tool be open sourced would defy the protection capabilities of the software.
+![GitHub all releases](https://img.shields.io/github/downloads/ExIfDev/Easy-FPS-Decompiler/total?style=for-the-badge)
 
