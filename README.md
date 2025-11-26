@@ -22,7 +22,7 @@ EasyFPSE Decompiler is a simple CLI tool that allows you to protect or decompile
  - datamining
  - maintaining abandoned games
    
-This software was *not* meant to "steal" others work, and it's developer (me) does not condone such behavior, please be mindful and don't abuse this software for non ethical purposes.
+This software was *not* meant to "steal" others work, and it's developer (me) does not condone such behaviour, please be mindful and don't abuse this software for non ethical purposes.
 
  ## Why no source code?
 
