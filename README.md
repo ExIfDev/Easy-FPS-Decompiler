@@ -19,6 +19,7 @@ EasyFPSE Decompiler is a simple CLI tool that allows you to protect or decompile
  - recovering a lost project from a built game
  - learning
  - modding
+ - datamining
  - maintaining abandoned games
    
 This software was *not* meant to "steal" others work, and it's developer (me) does not condone such behavior, please be mindful and don't abuse this software for non ethical purposes.
