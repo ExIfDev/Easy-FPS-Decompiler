@@ -28,7 +28,7 @@ This software was *not* meant to "steal" others work, and it's developer (me) do
 
  ~~For the time being only a compiled binary is avaliable because having the tool be open sourced would defy the protection capabilities of the software.~~
 
- The source code has been released on 17/12/2025 since a new engine version "improved" its protection, hence rendering the tool ineffective.
+ The source code has been released on 17/12/2025 since a new engine version "improved" its protection, hence rendering the tool ineffective, this project was made just for fun and there are no plans of maintaining it further.
 
 
 ![GitHub all releases](https://img.shields.io/github/downloads/ExIfDev/Easy-FPS-Decompiler/total?style=for-the-badge)
